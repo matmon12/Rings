@@ -1,6 +1,6 @@
 <h1 align="center">Rings website</h1>
 <div align="center" id="top">
-<img src="./src/img/screen.png" alt="logo" style="width: 300px;">
+<img src="./src/img/screen.png" alt="logo" >
 </div>
 &#xa0;
 
