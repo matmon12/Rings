@@ -1,6 +1,6 @@
 import './index.html';
 import './index.scss';
-import * as THREE from 'three';
+// import * as THREE from 'three';
 import * as TWEEN from '@tweenjs/tween.js';
 import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 import Stats from 'three/examples/jsm/libs/stats.module.js';
